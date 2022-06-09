@@ -1,2 +1,0 @@
-# meuPrimeiroRepositorio
-Meu Primeiro Repositorio
